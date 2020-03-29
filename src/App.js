@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Klk palomon
+          Learn new things
         </a>
       </header>
     </div>
